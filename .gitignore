@@ -1,0 +1,16 @@
+# --- Data Files (Critical for Privacy) ---
+DA_outbound_call_nursing_team.csv
+*.csv
+*.xlsx
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- Python Environment ---
+__pycache__/
+venv/
+.env
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
