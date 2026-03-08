@@ -1,6 +1,6 @@
 # 🏥 Healthcare Tele-Nursing Data Analysis: Impact of Outbound Calls on Patient Screening Rates
 
-## 📖 Project Overview (Neden Bu Projeyi Yaptık?)
+## 📖 Project Overview 
 Preventive health screenings are critical for early diagnosis and better patient outcomes. However, many patients fail to schedule or attend their required screenings naturally. 
 
 This data analysis project investigates the **return on investment (ROI) and overall effectiveness of an Outbound Call Nursing Team**. By proactively reaching out to patients, we aimed to measure whether a simple phone call intervention significantly increases the likelihood of patients completing necessary health screenings (such as Colonoscopy, Blood Pressure, Breast Cancer Screening, etc.) compared to the natural compliance rate of uncalled patients.
