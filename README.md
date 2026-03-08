@@ -30,3 +30,19 @@ Our dual-axis analysis and comparative A/B style compliance tracking revealed th
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/tele-nursing-compliance-analysis.git
+Install the required dependencies:
+bash
+pip install pandas numpy matplotlib seaborn
+Open 
+
+Nursing.ipynb
+ using Jupyter Notebook or JupyterLab to view the interactive charts and data cleaning pipeline.
+📂 File Structure
+
+Nursing.ipynb
+: The core analysis notebook containing all the Python code, logic explanations, and business visualizations.
+
+DA_outbound_call_nursing_team.csv
+: The primary dataset containing patient IDs, call dates, and screening completion flags. (Note: Patient data is anonymized)
+Created for demonstrating data-driven healthcare decision making.
+   
